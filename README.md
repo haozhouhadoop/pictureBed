@@ -10,4 +10,8 @@ github的`asset`为图片目录，通过markdown通过cdn访问的语法：
 
 Contact me:
 ----------------
+##### 邮箱:
 ```15233617310@163.com```
+
+### 微信:
+![美图](https://cdn.jsdelivr.net/gh/haozhouhadoop/pictureBed/asset/微信二维码.png)
