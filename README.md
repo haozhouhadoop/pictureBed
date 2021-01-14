@@ -1,5 +1,13 @@
-## <font face="红色">我是红色</font>
-## <font size=12>12号字</font>
-## <font face="黑体">我是黑体字</font>
-<font color=#0099ff size=12 face="黑体">黑体</font>
+图床
+==================
+图床创建过程
+------------------------------------
+使用`jsDeliver+github`搭建，`github`存储图片,`jsDeliver`做`cdn`加速访问。
+github的`asset`为图片目录，通过markdown通过cdn访问的语法：
+```https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径```
 
+---------------------
+
+Contact me:
+----------------
+```15233617310@163.com```
