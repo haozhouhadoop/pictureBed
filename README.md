@@ -14,4 +14,4 @@ Contact me:
 ```15233617310@163.com```
 
 ### 微信:
-![美图](https://cdn.jsdelivr.net/gh/haozhouhadoop/pictureBed/asset/微信二维码.png)
+![微信](https://cdn.jsdelivr.net/gh/haozhouhadoop/pictureBed/asset/微信二维码.png)
